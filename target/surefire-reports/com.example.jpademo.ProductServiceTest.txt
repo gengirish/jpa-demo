@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.jpademo.ProductServiceTest
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.76 s - in com.example.jpademo.ProductServiceTest
